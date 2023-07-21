@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+*.pyc
+data/data_sample.csv
+data/data.csv
+mlruns/*
